@@ -1,0 +1,32 @@
+COM04-AWS100 - Push a Docker image to Amazon ECR repository
+Cloud Service Provider
+Amazon Web Services
+Difficulty
+Level 100 (Introductory)
+Project's Author(s)
+Johan Rin
+Objectives
+Prerequisites
+A Docker image
+You need to complete the following:
+Create your Amazon ECR repository
+Authenticate your Docker to Amazon ECR
+Tag your Docker image with the Amazon ECR repository
+Push your image to Amazon ECR
+You need to answer the following:
+What is the URL for your default registry?
+What is a Tag immutability in Amazon ECR repository?
+What is a Scan on push in Amazon ECR repository?
+How many registry authentication methods are available?
+How long an Authorization Token is valid?
+How many tags per image can you apply in Amazon ECR?
+References
+Get started with Docker
+How to build a Docker image
+Creating a Repository
+Registry Authentication
+Pushing an image
+Costs
+Included in the Free Tier
+Estimated time to complete
+30 minutes - only if you already have a Docker image
