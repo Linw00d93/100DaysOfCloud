@@ -1,0 +1,31 @@
+BS03-AWS100 - Creating an Amazon RDS DB Instance (MS SQL Server)
+Cloud Service Provider
+Amazon Web Services
+Difficulty
+Level 100 (Introductory)
+Project's Author(s)
+Jagan
+Objectives
+You need to complete the following:
+Setup a database instance on Amazon RDS
+Create a MS SQL Server database instance on RDS
+Connect to RDS database instance from your local
+You need to answer the following:
+What is RDS?
+How to create a database instance on RDS?
+How to connect to RDS database?
+References
+What is RDS?
+Setting Up for Amazon RDS
+Creating an Amazon RDS DB Instance
+Connecting to a DB Instance Running the Microsoft SQL Server Database Engine
+Running SQL Server Databases on Amazon RDS for SQL Server - AWS Virtual Workshop
+Amazon RDS Free Tier
+Costs
+Included in the Free Tier
+Estimated time to complete
+45-60 minutes
+Tips
+Having database knowledge is an added advantage
+750 hours of Amazon RDS Single-AZ db.t2.micro included in free tier
+
